@@ -6,8 +6,8 @@
 
 proxy-providers:
 
-  机场名称:
-    url: "机场订阅地址"  
+  火烧云:
+    url: "https://onehsy.yeniudsss.us/mj/v8/front/mysubnew?token=5941b2fc2190b5582bb280778820077b&timestamp=1771766363&sign=591a2328649be8fc7410a04a251502aa"  
     type: http
     interval: 86400
     health-check:
@@ -463,5 +463,6 @@ rule-providers:
   
 
 #  GateFireWall / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
 
